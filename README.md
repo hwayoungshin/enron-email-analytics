@@ -2,6 +2,15 @@
 
 I analyzed 500,000+ real-world corporate emails from the Enron dataset using Python, NLP preprocessing, and data visualization.
 
+## Tech Stack
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- NLP
+- Regular Expressions
+- 
 ## Project Overview
 This project parses raw email messages, extracts metadata, and analyzes communication patterns in a large-scale corporate email dataset.
 
