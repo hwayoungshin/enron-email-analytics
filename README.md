@@ -26,3 +26,7 @@ Python, Pandas, NumPy, Matplotlib, Regex
 
 ## Dataset
 Enron Email Dataset
+
+## Dataset Note
+
+The original dataset file is not included in this repository due to file size, so to run the notebook, download the Enron Email Dataset from Kaggle and place `archive.zip` in the project folder.
